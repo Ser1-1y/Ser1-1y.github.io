@@ -74,6 +74,10 @@
     background: var(--background-secondary) !important;
   }
   
+  .scrollerInner__059a5 {
+    background-color: var(--background-secondary);
+  }
+  
   /* BetterDiscord */
   .bd-select,
   .bd-addon-list .bd-addon-card,
@@ -403,7 +407,12 @@
   .theme-dark .button_afdfd9 {
     border-radius: calc(var(--radius) + 16px);
   }
-
+  
+  .theme-dark .button_afdfd9.lookFilled__19298.colorBrand_b2253e, 
+  .theme-dark .button_afdfd9.lookFilled__19298.colorGreen__5f181, 
+  .theme-dark .button_afdfd9.lookFilled__19298.colorBrandNew_fd170a {
+    background-color: rgba(30, 31, 34, 0.0837);
+  }
   .theme-dark .button_afdfd9.lookFilled__19298.colorBrand_b2253e:hover, 
   .theme-dark .button_afdfd9.lookFilled__19298.colorGreen__5f181:hover, 
   .theme-dark .button_afdfd9.lookFilled__19298.colorBrandNew_fd170a:hover {
