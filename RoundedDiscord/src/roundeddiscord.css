@@ -697,3 +697,6 @@
   .footer__89240 {
     border-radius: 0px 0px var(--radius) var(--radius);
   }
+
+  .wrapper__3f3a7 {
+    border-radius: calc(--radius + 8)
