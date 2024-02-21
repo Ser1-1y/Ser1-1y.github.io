@@ -367,15 +367,16 @@
     margin-bottom: 0;
   }
   .panels__58331 .container_ca50b9 {
-    flex-direction: column;
+    flex-direction: var(--user-panel-style);
     height: 88px;
     padding: 8px;
     margin-bottom: -36px;
     transition: 0.2s;
+    align-items: var(--user-panel-alignment);
   }
 
 /* BetterWindowsTitleBar by @coolesding (406084422308331522) */
-.platform-win .typeWindows__5fa63 {
+  .platform-win .typeWindows__5fa63 {
     height: 0px;
     margin-top: 0;
     position: absolute;
