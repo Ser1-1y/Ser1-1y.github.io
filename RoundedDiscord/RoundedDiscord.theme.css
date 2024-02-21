@@ -9,7 +9,9 @@
 
 @import url(https://Ser1-1y.github.io/RoundedDiscord/src/roundeddiscord.css);
 @import url(https://Ser1-1y.github.io/RoundedDiscord/src/experimental.css);
+@import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css);
 
 :root {
   --radius: 12px; /** Border radius */
+  --app-font: "Google Sans";
 }
