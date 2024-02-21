@@ -15,5 +15,5 @@
   --radius: 12px; /** Border radius */
   --app-font: "Google Sans";
   --user-panel-style: column; /* column - vertical, row - discord default */
-  --user-panel-alignment: flex-start; /* styles: bottom - center, bottom-left - "flex-start" */
+  --user-panel-alignment: center; /* styles: center - bottom, flex-start - bottom-left */
 }
