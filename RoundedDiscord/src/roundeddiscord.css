@@ -703,3 +703,5 @@
   .wrapper__3f3a7 {
     border-radius: calc(--radius + 8);
   }
+  /* Font */
+  * {font-family: var(--app-font) !important;}
