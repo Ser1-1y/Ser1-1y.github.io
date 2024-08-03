@@ -14,10 +14,10 @@
       "#5C482C"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#1f1b15"
+      "#382E1F"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#1f1b15"
+      "#31291E"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
       "#1f1b15"
@@ -89,11 +89,11 @@
       "#866532"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-       "#1f1b15"
+       "#413017"
       ],
 
  "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#1f1b15"
+      "#352A19"
       ],
 
  "REDESIGN_CHAT_INPUT_BACKGROUND": [
@@ -145,7 +145,7 @@
       "PRIMARY_460": "#4E412C",
       "PRIMARY_500": "#4E412C",
       "PRIMARY_600": "#352D22",
-      "PRIMARY_630": "#2C261C",
+      "PRIMARY_630": "#FF0224",
       "PRIMARY_660": "#1f1b15",
       "PRIMARY_700": "#1f1b15",
       "PRIMARY_800": "#1f1b15",
@@ -164,7 +164,7 @@
       "PLUM_24": "#4B3C25",
       "PLUM_25": "#4B3C25",
       "PLUM_3": "#cad3f5",
-      "PLUM_4": "#1f1b15",
+      "PLUM_4": "#FF0000",
       "PLUM_6": "#cad3f5",
       "PLUM_9": "#cad3f5",
       "GREEN_100": "#a6da95",
