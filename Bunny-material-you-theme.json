@@ -8,16 +8,16 @@
     ],
     "semanticColors": {
       "BACKGROUND_ACCENT": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "BACKGROUND_MENTIONED": [
-      "#1a151e"
+      "#ffdeac"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
       "#1a151e"
@@ -71,16 +71,16 @@
       "#1a151e"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "INTERACTIVE_HOVER": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "INTERACTIVE_MUTED": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "INTERACTIVE_NORMAL": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "MENTION_BACKGROUND": [
       "#1a151e"
@@ -93,26 +93,26 @@
       ],
 
  "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
-      "#1a151e"
+      "#9d7f4b"
       ],
 
  "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "SCROLLBAR_AUTO_THUMB": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "SCROLLBAR_AUTO_TRACK": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "SCROLLBAR_THIN_THUMB": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "SCROLLBAR_THIN_TRACK": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
-      "#1a151e"
+      "#9d7f4b"
       ],
       "TEXT_DANGER": [
       "#ed8796"
@@ -121,16 +121,16 @@
       "#f0c6c6"
       ],
       "TEXT_MUTED": [
-      "#a5adcb"
+      "#ffdeac"
       ],
       "TEXT_NORMAL": [
-      "#cad3f5"
+      "#ffdeac"
       ],
                 "TEXT_PRIMARY": [
-            "#cad3f5"
+            "#ffdeac"
         ],
         "TEXT_SECONDARY": [
-        "#a5adcb"
+        "#ffdeac"
         ]
   },
     "rawColors": {
