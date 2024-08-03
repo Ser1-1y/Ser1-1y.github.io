@@ -5,6 +5,10 @@
         {
             "name": "Wizzy#0211",
             "id": "715443625580036128"
+        },
+        {
+            "name": "Ser11y",
+            "id": "592359850059497492"
         }
     ],
     "semanticColors": {
@@ -104,12 +108,15 @@
         "PRIMARY_200": "#ffffff",
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#ffdeaa",
+        "PRIMARY_400": "#1f1b15",
         "PRIMARY_500": "#ffdeaa",
+        "PRIMARY_530": "#1f1b15",
         "PRIMARY_600": "#1f1b15",
         "PRIMARY_630": "#1f1b15",
-        "PRIMARY_660": "#1f1b15",
+        "PRIMARY_660": "#2C251B",
         "PRIMARY_700": "#1f1b15",
         "PRIMARY_800": "#1f1b15",
+        "PRIMARY_900": "#1f1b15",
         "BRAND_260": "#ffdeaa",
         "BRAND_360": "#ffdeaa",
         "BRAND_500": "#ffdeaa",
