@@ -11,6 +11,9 @@
             "id": "592359850059497492"
         }
     ],
+    "plus": {
+        "version": 0
+    },
     "semanticColors": {
         "HEADER_PRIMARY": [
             "#ffffff"
@@ -130,9 +133,6 @@
         "RED_560" : "#ffdeaa",
         "RED_400": "#ffdeaa"
     },
-    "plus": {
-        "version": 0
-    }
     "spec": 2
 }
 
