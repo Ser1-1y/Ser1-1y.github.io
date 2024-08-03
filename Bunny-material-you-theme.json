@@ -130,6 +130,9 @@
         "RED_560" : "#ffdeaa",
         "RED_400": "#ffdeaa"
     },
+    "plus": {
+        "version": 0
+    }
     "spec": 2
 }
 
